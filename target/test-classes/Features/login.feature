@@ -6,4 +6,4 @@ Feature: User Login
     And the user enters a valid username "mehedi.me91@gmail.com"
     And the user enters a valid password "Auto12345$"
     And the user clicks the login button
-    Then the user will land on the home page "https:/"
+    Then the user will land on the home page "https://islahiart.com/my-account/?login=success"
